@@ -1,0 +1,7 @@
+/terraform-provider-reselling
+/dist/
+.terraform/
+.terraform.lock.hcl
+*.tfstate
+*.tfstate.backup
+examples/**/kubeconfig.yaml
